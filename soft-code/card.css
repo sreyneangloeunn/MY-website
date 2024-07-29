@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 300px;
+    height: 90vh;
+    background-image:url(https://i.pinimg.com/564x/00/0c/73/000c73f78d9c4aeca8f002c06c0ba2cb.jpg) ;
+}
+.body img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
